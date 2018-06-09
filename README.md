@@ -1,2 +1,2 @@
 # Neural-Transfer
-Deep learning class assignment 1
+Class project
